@@ -1,0 +1,18 @@
+---
+title: "index2"
+author: "Emilie Bell"
+format:
+  html:
+    toc: true
+    toc_float: true
+    embed-resources: true
+execute: 
+  warning: false
+  message: false
+---
+## About me
+
+I am a junior biology major at UMass Amherst from Arlington, Mass. I study early embryonic development in the Mager Lab and am on the Women's Rowing team.
+![My Image](images2/IMG_8978.jpg)
+
+[Lab 13](https://emilie-bell.github.io/pathogen/thirteen.html)
